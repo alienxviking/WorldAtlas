@@ -28,7 +28,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone github.com/alienxviking/worldatlas
+git clone github.com/alienxviking/WorldAtlas
 
 # 2. Navigate to the project directory
 cd WorldAtlas
